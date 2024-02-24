@@ -1,14 +1,3 @@
-/**
- * BIT-210 Object Oriented Programming
- * <p>
- *
- * @author Casey Floyd <cfloyd3@my.gcu.edu>
- * @version 1.0
- * @since 2018-10-16
- * <p>
- * Longer description. Reverse Polish HP Style Calculator - Part 2
- */
-
 import java.util.EmptyStackException;
 
 public class ArrayStack extends AbstractStack {
